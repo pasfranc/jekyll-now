@@ -31,8 +31,8 @@ I've integrated more than 10 payment methods in 12 countries with 4 different pa
  - ### Global Passport Project (nodejs, loopback, express, zenroom, sawroom blockchain, ipfs)
    Global passport project is a humanitarian project to help migrants and NGO in saving in
    secure way their documents making use of zenroom encryption, IPFS storage and blockchain.
- - ### Keypair lib (zenroom, typescript, npm)
-   Keypair lib is a npm library used into GPP backend useful to generate a keypair from userData
+ - ### [Keypair lib](https://www.npmjs.com/package/keypair-lib) (zenroom, typescript, npm)
+   Keypair lib is a npm library used into GPP backend useful to generate a keypair from user data
    and a list of recovery questions. This can help recovery customer account without saving almost
    anything on server side in a secure way.
 
