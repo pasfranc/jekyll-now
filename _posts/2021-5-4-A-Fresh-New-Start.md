@@ -10,7 +10,7 @@ Yes, it's me. Again!
 
 Well, this is everything I just need right now.
 
-![new-beginning.png]https://raw.githubusercontent.com/pasfranc/pasfranc.github.io/master/_posts/new-beginning.png)
+![new-beginning.png](https://raw.githubusercontent.com/pasfranc/pasfranc.github.io/master/_posts/new-beginning.png)
 
 
 Sometimes there's something you just can't fix and there's actually noone to blame. Things happens. Bad things happens as well. 
