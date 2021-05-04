@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A fresh new start!
-published: false
+published: true
 ---
 
 Yes, it's me. Again!
